@@ -1,2 +1,8 @@
 # nafix.snake
-DISCORD:
+DISCORD: https://discord.gg/RTHy3axNHg
+
+(not ready)
+
+BETA
+
+(snake game pero re-diseñado)
